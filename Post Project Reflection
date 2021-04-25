@@ -1,0 +1,17 @@
+After completing this project, I would like to recount ont he difficultiees and cahllenges overcome to complete this piece. Although my final project is not truly
+what I wanted it to be, I think it embodies the hard work and skills I have done to finish it. I wanted to make a price tracker with notifications instead of just
+a price finder, however, due to technilogical issues, such as pip not working properly and an apparent old version of python, I could not dwonlad necesary libraries
+such as telegram and os, to accomplish the notifications part. However, in this process, I have become learned and become much more familair with the Mac terminal. 
+I have learned the usefulness it contains and look forward to continue using it. Despite not being able to complete the ideal rendtion of my project, I still 
+thoroughly enjoyed creating the current version. I learned how to use some of the requests library as well as what an API is and how to use it. I got to exersice 
+skills used from the semester and applied them in this project. Some other difficulties I had that I persevered through were API formatting and API data manipulation. 
+This was also very difficult and at a point I almost left the API data as is instead of formatting it. Prior to figuring out how to format/ manipulate the data, when 
+inputing a certian coin and fiat currency (lets use bitcoin and usd as an example for not) it would display as {'bitcoin', 'usd': price, 'Market_cap: xxxx} or something
+like that. This was not pleasing to see so I eventually was able to figure out how to manipulate the data using requests and json. Additionally, when adding the percent
+change, using the .format was something I learned to do in order to reduce the number of decimal places from around 12-14 to 2 decimal places. In fact, finding a good
+Api in general was a tedious task, but luckily the coingecko one did the job and worked well for this projecy (some others requried payemnt or signup).Also, I learned to
+find bugs more efficently and used functions more than I have previously. Practicing these skills made coding easier and more fun. I really enjoyed navigating the API,
+and adding the choose the fiat currency feature. This project, truly did test my coding capabilities and I feel that I delivered. In the future, I plan on adding
+the notification feature to this (I have a genral idea of how to do it, but the needed libraries will not download). Overall, I learned to be ambitous, stay resileint 
+and focused when coding. Although things did not turn out ideal in the end, I was very proud of what I accomplished. Considering I am really interested in Crypto 
+and I think it has a bright future, this was fun.
