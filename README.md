@@ -64,6 +64,11 @@ I will need to research what an API is and how to use it with Python. I will nee
 TODO
 
 
+### LINK TO PROJECT VIDEO:
+https://www.youtube.com/watch?v=FScmSXtS6GA
+
+https://youtu.be/FScmSXtS6GA
+
 
 ### POST PROJECT REFLECTION:
 After completing this project, I would like to recount ont he difficultiees and cahllenges overcome to complete this piece. Although my final project is not truly
